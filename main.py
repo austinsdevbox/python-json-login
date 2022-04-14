@@ -31,7 +31,7 @@ def signup():
             print('username', u, 'is too long! please type 15 or less characters')
         return None
     
-    res = re.match('^[a-z0-9_.]+$', u)
+    res = re.match('^[a-z0-9_\.]+$', u)
     if res:
         pass
     else:
