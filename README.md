@@ -2,7 +2,7 @@
 A simple Python script to interact with JSON
 
 # Why did you make this?
-Well, I was doing a Python class assignment at the univ. I discovered that using a JSON file would be simple yet efficient to save the data locally. To understand JSON and Python's dict type data, I made this script. Also, to get used to using Regular Expression :)
+Well, I was doing a Python class assignment at the univ. I discovered that using a JSON file would be simple yet efficient to save the data locally. To understand JSON and Python's dict type data, I made this script. Also, to get used to using Regular Expression :) And to know how to start a repository on Github.
 # Can I use it?
 Of course you can! However, don't really use it on your web server... passwords are saved unencrypted... (jk, you should use database to manage data on web server)
 
